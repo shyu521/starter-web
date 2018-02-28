@@ -11,3 +11,7 @@ this file was for the git project trainning
 
 ##How To Contribute 
 use the git to submit the changes 
+
+## Here is more text in this file
+
+here is even more text
