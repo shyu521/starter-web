@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Shengze Yu shyu5201@gmail.com
 
 # THANKS
 
