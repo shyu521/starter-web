@@ -18,3 +18,6 @@ use the git to submit the changes
 here is even more text
 
 add some information for branch practise
+
+## Copyright
+2018 git study. All rights reserved
